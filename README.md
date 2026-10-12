@@ -43,7 +43,3 @@ lib/
   features/history/                 # 训练历史页面和状态
   features/settings/                # 设置页面
 ```
-
-各功能目录内部按职责进一步划分为 `screens/`、`models/`、`services/` 和 `providers/`（只在该功能确实需要时创建）。四个底部标签由 `StatefulShellRoute.indexedStack` 管理各自的导航状态；训练说明、训练过程和结果页由根路由集中配置。
-
-产品范围和详细技术决策见 [手机认知训练 App 方案](手机认知训练App方案.md)。
