@@ -1,4 +1,4 @@
-# 心智训练 App
+# Mind Training
 
 基于 Flutter 的 iOS / Android 跨平台认知训练 App 基础框架。
 
